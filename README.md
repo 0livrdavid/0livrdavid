@@ -1,5 +1,5 @@
 # 💫 About Me:
-[Portuguese]  
+[Portugues]  
 🔭 Atualmente estou trabalhando em CVS Sistemas e Informática Ltda<br><br>👯 Estou querendo colaborar com projetos de desenvolvimento PWA<br><br>🌱 Estou aprendendo tecnologias front-end: React JS e Next JS; Back-end: Laravel, Node JS.<br><br>💬 Fazendo a transição de estagiário para desenvolvedor FullStack júnior, minha jornada tem sido uma mistura dinâmica de educação, serviço militar e experiência prática de trabalho. Como estudante de sistemas de informação em meu quinto período, ganhei uma base sólida na área. Também tenho experiência prática em sistemas de gerenciamento de conteúdo da web, como Joomla e WordPress, bem como Help Desk e gerenciamento de servidores locais e em plataformas de nuvem, como Hostinger e Amazon AWS.<br>Impulsionado pela paixão, pela inovação e pela vontade de enfrentar novos desafios, procuro criar soluções que ultrapassem fronteiras e causem um impacto significativo nos produtos em que trabalho. À medida que continuo a evoluir como desenvolvedor, estou ansioso para usar minhas habilidades para dar vida a novas ideias e enfrentar problemas complexos de frente.<br><br>⚡ Sou um desenvolvedor que não gosta tanto de café
 
 [English]  
