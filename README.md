@@ -1,9 +1,41 @@
 # 💫 About Me:
 [Portugues]  
-🔭 Atualmente estou trabalhando em CVS Sistemas e Informática Ltda<br><br>👯 Estou querendo colaborar com projetos de desenvolvimento PWA<br><br>🌱 Estou aprendendo tecnologias front-end: React JS e Next JS; Back-end: Laravel, Node JS.<br><br>💬 Fazendo a transição de estagiário para desenvolvedor FullStack júnior, minha jornada tem sido uma mistura dinâmica de educação, serviço militar e experiência prática de trabalho. Como estudante de sistemas de informação em meu quinto período, ganhei uma base sólida na área. Também tenho experiência prática em sistemas de gerenciamento de conteúdo da web, como Joomla e WordPress, bem como Help Desk e gerenciamento de servidores locais e em plataformas de nuvem, como Hostinger e Amazon AWS.<br>Impulsionado pela paixão, pela inovação e pela vontade de enfrentar novos desafios, procuro criar soluções que ultrapassem fronteiras e causem um impacto significativo nos produtos em que trabalho. À medida que continuo a evoluir como desenvolvedor, estou ansioso para usar minhas habilidades para dar vida a novas ideias e enfrentar problemas complexos de frente.<br><br>⚡ Sou um desenvolvedor que não gosta tanto de café
+<br>🚀 Transformo ideias em sistemas que geram resultados reais para empresas.
 
-[English]  
-I'm currently working at CVS Sistemas e Informática Ltda<br><br>👯 I'm looking to collaborate with PWA development projects<br><br>🌱 I'm learning front-end technologies: React JS and Next JS; Backend: Laravel, Node JS.<br><br>💬 Making the transition from intern to junior FullStack developer, my journey has been a dynamic mix of education, military service, and hands-on work experience. As a fifth-year student of information systems, I gained a solid foundation in the field. I also have hands-on experience in web content management systems such as Joomla and WordPress, as well as Help Desk and server management on premises and on cloud platforms such as Hostinger and Amazon AWS.<br>Driven by passion, innovation and passion willing to face new challenges, I try to create solutions that go beyond borders and cause a significant impact on the products I work on. As I continue to evolve as a developer, I look forward to using my skills to bring new ideas to life and tackle complex problems head-on.<br><br>⚡ I'm a developer who doesn't like coffee so much
+<br><br>Com 4+ anos como Desenvolvedor Full Stack, já arquitetei desde plataformas LMS completas até sistemas de automação para a indústria petrolífera. Meu diferencial? Combino expertise <br><br>técnica com visão de negócio - parte das vendas atuais da CVS Sistemas deve-se ao sistema LMS que desenvolvi.
+
+<br><br>💡 Destaques da minha trajetória:
+<br>- Otimizei processamento de relatórios de 4h para 20min (melhoria de 83%)
+<br>- Liderei consultoria técnica em projeto de R$ 1M+ via FAPEMIG
+<br>- Desenvolvi microsserviço para gestão de múltiplos provedores de IA
+<br>- Apresento soluções técnicas diretamente para stakeholders e tomadores de decisão
+
+<br><br>Especializado em PHP, JavaScript e Python, com experiência crescente em tecnologias de IA. Busco oportunidades onde posso aplicar minha paixão por resolver problemas complexos e criar soluções escaláveis.
+
+<br><br>🎯 Aberto para conversas sobre desenvolvimento full stack, arquitetura de sistemas e projetos inovadores!
+
+<br><br>Tecnologias Principais: PHP, JavaScript, Python, MySQL, Docker, APIs REST, Microsserviços, Visão Computacional.
+
+<br><br>Atualmente, aberto a oportunidades em desenvolvimento full stack, arquitetura de sistemas e projetos de inovação em IA ou automação.
+
+<br><br>[English]  
+<br>🚀 I transform ideas into systems that generate real results for companies.
+
+<br><br>With 4+ years as a Full Stack Developer, I've architected everything from complete LMS platforms to automation systems for the oil industry. My differentiator? I combine technical expertise with business acumen – a portion of CVS Sistemas' current sales is due to the LMS system I developed.
+
+<br><br>💡 Highlights of my career:
+<br>- Optimized report processing from 4 hours to 20 minutes (83% improvement)
+<br>- Leading technical consulting on a R$1M+ project via FAPEMIG
+<br>- Developed a microservice for managing multiple AI providers
+<br>- Present technical solutions directly to stakeholders and decision-makers
+
+<br><br>Specialized in PHP, JavaScript, and Python, with growing experience in AI technologies. I seek opportunities where I can apply my passion for solving complex problems and creating scalable solutions.
+
+<br><br>🎯 Open to conversations about full stack development, systems architecture, and innovative projects!
+
+<br><br>Key Technologies: PHP, JavaScript, Python, MySQL, Docker, REST APIs, Microservices, Computer Vision.
+
+<br><br>Currently open to opportunities in full-stack development, systems architecture, and innovation projects in AI or automation.
 
 
 ## 🌐 Socials:
