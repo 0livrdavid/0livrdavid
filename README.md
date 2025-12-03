@@ -1,41 +1,41 @@
 # 💫 About Me:
 [Portugues]  
-<br>🚀 Transformo ideias em sistemas que geram resultados reais para empresas.
+🚀 Transformo ideias em sistemas que geram resultados reais para empresas.
 
-<br><br>Com 4+ anos como Desenvolvedor Full Stack, já arquitetei desde plataformas LMS completas até sistemas de automação para a indústria petrolífera. Meu diferencial? Combino expertise <br><br>técnica com visão de negócio - parte das vendas atuais da CVS Sistemas deve-se ao sistema LMS que desenvolvi.
+Com 4+ anos como Desenvolvedor Full Stack, já arquitetei desde plataformas LMS completas até sistemas de automação para a indústria petrolífera. Meu diferencial? Combino expertise <br><br>técnica com visão de negócio - parte das vendas atuais da CVS Sistemas deve-se ao sistema LMS que desenvolvi.
 
-<br><br>💡 Destaques da minha trajetória:
-<br>- Otimizei processamento de relatórios de 4h para 20min (melhoria de 83%)
-<br>- Liderei consultoria técnica em projeto de R$ 1M+ via FAPEMIG
-<br>- Desenvolvi microsserviço para gestão de múltiplos provedores de IA
-<br>- Apresento soluções técnicas diretamente para stakeholders e tomadores de decisão
+💡 Destaques da minha trajetória:
+- Otimizei processamento de relatórios de 4h para 20min (melhoria de 83%)
+- Liderei consultoria técnica em projeto de R$ 1M+ via FAPEMIG
+- Desenvolvi microsserviço para gestão de múltiplos provedores de IA
+- Apresento soluções técnicas diretamente para stakeholders e tomadores de decisão
 
-<br><br>Especializado em PHP, JavaScript e Python, com experiência crescente em tecnologias de IA. Busco oportunidades onde posso aplicar minha paixão por resolver problemas complexos e criar soluções escaláveis.
+Especializado em PHP, JavaScript e Python, com experiência crescente em tecnologias de IA. Busco oportunidades onde posso aplicar minha paixão por resolver problemas complexos e criar soluções escaláveis.
 
-<br><br>🎯 Aberto para conversas sobre desenvolvimento full stack, arquitetura de sistemas e projetos inovadores!
+🎯 Aberto para conversas sobre desenvolvimento full stack, arquitetura de sistemas e projetos inovadores!
 
-<br><br>Tecnologias Principais: PHP, JavaScript, Python, MySQL, Docker, APIs REST, Microsserviços, Visão Computacional.
+Tecnologias Principais: PHP, JavaScript, Python, MySQL, Docker, APIs REST, Microsserviços, Visão Computacional.
 
-<br><br>Atualmente, aberto a oportunidades em desenvolvimento full stack, arquitetura de sistemas e projetos de inovação em IA ou automação.
+Atualmente, aberto a oportunidades em desenvolvimento full stack, arquitetura de sistemas e projetos de inovação em IA ou automação.
 
-<br><br>[English]  
-<br>🚀 I transform ideas into systems that generate real results for companies.
+[English]  
+🚀 I transform ideas into systems that generate real results for companies.
 
-<br><br>With 4+ years as a Full Stack Developer, I've architected everything from complete LMS platforms to automation systems for the oil industry. My differentiator? I combine technical expertise with business acumen – a portion of CVS Sistemas' current sales is due to the LMS system I developed.
+With 4+ years as a Full Stack Developer, I've architected everything from complete LMS platforms to automation systems for the oil industry. My differentiator? I combine technical expertise with business acumen – a portion of CVS Sistemas' current sales is due to the LMS system I developed.
 
-<br><br>💡 Highlights of my career:
-<br>- Optimized report processing from 4 hours to 20 minutes (83% improvement)
-<br>- Leading technical consulting on a R$1M+ project via FAPEMIG
-<br>- Developed a microservice for managing multiple AI providers
-<br>- Present technical solutions directly to stakeholders and decision-makers
+💡 Highlights of my career:
+- Optimized report processing from 4 hours to 20 minutes (83% improvement)
+- Leading technical consulting on a R$1M+ project via FAPEMIG
+- Developed a microservice for managing multiple AI providers
+- Present technical solutions directly to stakeholders and decision-makers
 
-<br><br>Specialized in PHP, JavaScript, and Python, with growing experience in AI technologies. I seek opportunities where I can apply my passion for solving complex problems and creating scalable solutions.
+Specialized in PHP, JavaScript, and Python, with growing experience in AI technologies. I seek opportunities where I can apply my passion for solving complex problems and creating scalable solutions.
 
-<br><br>🎯 Open to conversations about full stack development, systems architecture, and innovative projects!
+🎯 Open to conversations about full stack development, systems architecture, and innovative projects!
 
-<br><br>Key Technologies: PHP, JavaScript, Python, MySQL, Docker, REST APIs, Microservices, Computer Vision.
+Key Technologies: PHP, JavaScript, Python, MySQL, Docker, REST APIs, Microservices, Computer Vision.
 
-<br><br>Currently open to opportunities in full-stack development, systems architecture, and innovation projects in AI or automation.
+Currently open to opportunities in full-stack development, systems architecture, and innovation projects in AI or automation.
 
 
 ## 🌐 Socials:
